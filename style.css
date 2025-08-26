@@ -123,6 +123,7 @@ section {
     background-color: #6c63ff; /* purple button */
     color: white; /* white text */
     text-decoration: none; /* remove underline */
+    text-align: center; /* center text */
     border-radius: 5px;
     transition: background-color 0.3s ease;
 }
@@ -154,7 +155,7 @@ footer {
     color: white; /* white text */
     text-align: center;
     padding: 10px;
-    position: relative;
+    position: fixed;
     bottom: 0;
     width: 100%;
     text-decoration: none; /* remove underline */
